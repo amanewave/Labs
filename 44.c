@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#inlucde <>
+#include <math.h>
 
-void per(int a, int b, int c);
+void per(int a, int b, int c,int p);
 
 int main() {
-	perimetr (1, 4, 5);
+	per (1, 4, 5);
+	printf("p= %d\n",p)
 	
 	return 0;
 }
