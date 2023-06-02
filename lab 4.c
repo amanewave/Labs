@@ -1,3 +1,4 @@
+// FUNCS
 #include <stdio.h>
 #include <math.h>
  
@@ -18,6 +19,7 @@ bool res(double a, double b, double c) {
         return false;
 }
 
+// MAIN
 #include <stdio.h>
 #include <stdbool.h>
 #include "funcs.h"
