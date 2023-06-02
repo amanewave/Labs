@@ -54,7 +54,6 @@ int main()
             }
         }
 
-        // квадрат матрицы
         for (i = 0; i < n; i++)
         {
             for (j = 0; j < n; j++)
@@ -67,7 +66,6 @@ int main()
             }
         }
 
-        // Print the square of the matrix
         printf("квадрат матрицы равен:\n");
         for (i = 0; i < n; i++)
         {
